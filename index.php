@@ -3,6 +3,7 @@
     <head>
         <title>blog ruk</title>
         <!-- import Css -->
+		<meta charset="utf-8">
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -14,7 +15,6 @@
         <link rel="shortcut icon" href="images/ico/favicon.ico">
         <link rel="apple-touch-icon-precomposed" sizes="120*78" href="images/ico/logo.png">
         <!-- import JS -->
-        <?php include_once("analyticstracking.php") ?>
         <script src="js/jquery.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/jquery.isotope.min.js"></script>
